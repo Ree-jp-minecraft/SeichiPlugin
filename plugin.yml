@@ -1,5 +1,5 @@
 name: SeichiPlugin
-main: ree_jp\seichiPluginRequest
+main: ree_jp\seichiPluginRequest\SeichiPlugin
 version: 1.0.0
 api: [3.0.0]
 author: Ree-jp
